@@ -4,9 +4,6 @@ const proyectoSchema = new mongoose.Schema({
 	nombre: {
 		type: String,
 	},
-	descripcion: {
-		type: String,
-	},
 	tecnologias: {
 		type: String,
 	},
