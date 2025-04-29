@@ -1,0 +1,11 @@
+###
+GET http://localhost:3000/api/usuario/usuario
+
+###
+GET http://localhost:3000/api/experiencia/experiencia
+
+###
+GET http://localhost:3000/api/formacion/formacion
+
+
+
