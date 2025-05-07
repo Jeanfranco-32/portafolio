@@ -1,14 +1,16 @@
-###
-GET http://localhost:3000/api/usuario/usuario
+@host = https://portafolio-2dn5.onrender.com
 
 ###
-GET http://localhost:3000/api/experiencia/experiencia
+GET {{host}}/api/usuario
 
 ###
-GET http://localhost:3000/api/formacion/formacion
+GET {{host}}/api/experiencia/experiencia
 
 ###
-GET http://localhost:3000/api/proyecto/proyecto
+GET {{host}}/api/formacion/formacion
+
+###
+GET {{host}}/api/proyecto/proyecto
 
 
 
